@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415054995045",
+    "firebase_url": "https://redsocial-25ef4.firebaseio.com",
+    "project_id": "redsocial-25ef4",
+    "storage_bucket": "redsocial-25ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415054995045:android:5b05fa602a9fecbf",
+        "android_client_info": {
+          "package_name": "com.example.cristofer.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415054995045-j78mdot6bgjpu28c56dcmsvfrc1vonab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cristofer.proyectofinal",
+            "certificate_hash": "c4063afdfe9bdd73429b63621a0fe12299539a78"
+          }
+        },
+        {
+          "client_id": "415054995045-okc0h16ehij0renktd7rm9on8qg1s49a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97BFDsW5vOdoIrwqF5zmce0OXz0wORUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415054995045-okc0h16ehij0renktd7rm9on8qg1s49a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
